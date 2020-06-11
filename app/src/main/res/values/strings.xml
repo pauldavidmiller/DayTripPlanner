@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="destination_input_header">Destination</string>
+    <string name="destination_input_hint">600 Pennsylvania Ave</string>
+    <string name="nearby_food_header">Nearby Food</string>
+    <string name="foodCountString">Number of Results (%1$s):</string>
+    <string name="attractionsCountString">Number of Results (%1$s):</string>
+    <string name="nearby_attraction_header">Nearby Attractions</string>
+    <string name="go_button">Go</string>
+    <string name="search_results">Search Results</string>
+    <string name="cancel">Cancel</string>
+    <string name="view_nearby">View Nearby</string>
+    <string name="no_price">There is no price</string>
+
+
+    <string name="details_title">Details</string>
+
+    <string-array name="foodOptions">
+        <item>noodles</item>
+        <item>pizza</item>
+        <item>poke</item>
+        <item>bagels</item>
+        <item>bakeries</item>
+    </string-array>
+    <string-array name="attractionsOptions">
+        <item>aquariums</item>
+        <item>beaches</item>
+        <item>hiking</item>
+        <item>parks</item>
+        <item>museums</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
